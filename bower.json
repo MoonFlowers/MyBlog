@@ -1,6 +1,6 @@
 {
-  "name": "ratchet",
-  "description": "Build mobile apps with simple HTML, CSS, and JS components.",
+  "name": "iCenter",
+  "description": "English for everyone!",
   "keywords": [
     "css",
     "js",
@@ -10,7 +10,7 @@
     "mobile",
     "prototype"
   ],
-  "homepage": "http://goratchet.com",
+  "homepage": "http://icenter-edu.com",
   "main": [
     "sass/ratchet.scss",
     "dist/css/ratchet.css",
