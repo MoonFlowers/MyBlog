@@ -41,6 +41,8 @@ figcaption {
 .slider {
   margin: 0 auto;
   max-width: 1024px;  
+  padding-top: 20%; /* Поле сверху */
+  padding-bottom: 20%; /* Поле снизу */
 }
 
 .slide_viewer {
