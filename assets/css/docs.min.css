@@ -33,12 +33,11 @@
 
 .slider {
   margin: 0 auto;
-  max-width: 940px;
-  display: inline-block;
+  max-width: 1024px;  
 }
 
 .slide_viewer {
-  height: 340px;
+  height: 600px;
   overflow: hidden;
   position: relative;
 }
