@@ -40,23 +40,23 @@ figcaption {
 
 .slider {
   margin: 0 auto;
-  max-width: 1024px;  
+  max-width: 1024px; 
   padding-top: 30%; /* Поле сверху */
   padding-bottom: 20%; /* Поле снизу */
+
 }
 
 .slide_viewer {
   height: 570px;
   overflow: hidden;
-  position: relative;
-  padding-top: 30%; /* Поле сверху */
-  padding-bottom: 20%; /* Поле снизу */
+  position: relative; 
 }
 
 .slide_group {
   height: 100%;
   position: relative;
-  width: 100%;  
+  width: 100%;
+  
 }
 
 .slide {
@@ -64,7 +64,7 @@ figcaption {
   height: 100%;
   position: absolute;
   width: 100%; 
-  padding-top: 30%; /* Поле сверху */
+    padding-top: 30%; /* Поле сверху */
   padding-bottom: 20%; /* Поле снизу */
 }
 
@@ -93,8 +93,6 @@ figcaption {
   position: absolute;
   right: 0;
   text-align: center;
-  padding-top: 30%; /* Поле сверху */
-  padding-bottom: 20%; /* Поле снизу */
 }
 
 a.slide_btn {
