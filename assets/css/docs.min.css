@@ -40,12 +40,12 @@ figcaption {
 
 .slider {
   margin: 0 auto;
-  max-width: 1024px; 
+  max-width: 940px; 
 
 }
 
 .slide_viewer {
-  height: 570px;
+  height: 380px;
   overflow: hidden;
   position: relative; 
 }
