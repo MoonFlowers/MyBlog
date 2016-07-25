@@ -29,6 +29,13 @@
     position:absolute;
 }
 
+figcaption { 
+  position: absolute; bottom: 0;
+  background: rgba(0,0,0,0.4);
+  color: #fff; width: 100%;
+  font-size: 2rem; padding: .6rem; 
+}
+
 /*SLIDER*/
 
 .slider {
