@@ -1,7 +1,7 @@
 # Meta data
 name:         iCENTER
 authors:      Dauren Amanbayev
-description:  Образовательный центр
+description:  Образовательный центр английского языка в Астане
 
 # Dependencies
 highlighter:  rouge
@@ -12,4 +12,4 @@ permalink:    pretty
 # Server
 source:       docs
 port:         4000
-url:          http://daurenamanbayev.github.io
+url:          http://icenter-edu.com
